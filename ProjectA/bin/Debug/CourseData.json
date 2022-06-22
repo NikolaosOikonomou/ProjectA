@@ -1,0 +1,204 @@
+﻿{
+  "Courses": [
+    {
+      "Title": "CB16",
+      "Stream": "Java",
+      "Type": "Full Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-4-3"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "C#",
+      "Type": "Full Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-4-3"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "JScript",
+      "Type": "Full Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-4-3"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "Python",
+      "Type": "Full Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-4-3"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "Html/Css",
+      "Type": "Full Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-4-3"
+    },
+
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "Java",
+      "Type": "Part Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "C#",
+      "Type": "Part Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "JScript",
+      "Type": "Part Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "Python",
+      "Type": "Part Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB16",
+      "Stream": "Html/Css",
+      "Type": "Part Time",
+      "StartingDate": "2022-1-3",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Java",
+      "Type": "Full Time",
+      "StartingDate": "2022-4-5",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "C#",
+      "Type": "Full Time",
+      "StartingDate": "2022-4-5",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "JScript",
+      "Type": "Full Time",
+      "StartingDate": "2022-4-5",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Python",
+      "Type": "Full Time",
+      "StartingDate": "2022-4-5",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Html/Css",
+      "Type": "Full Time",
+      "StartingDate": "2022-4-5",
+      "EndingDate": "2022-7-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Java",
+      "Type": "Part Time",
+      "StartingDate": "2022-7-3",
+      "EndingDate": "2023-1-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "C#",
+      "Type": "Part Time",
+      "StartingDate": "2022-7-3",
+      "EndingDate": "2023-1-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "JScript",
+      "Type": "Part Time",
+      "StartingDate": "2022-7-3",
+      "EndingDate": "2023-1-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Python",
+      "Type": "Part Time",
+      "StartingDate": "2022-7-3",
+      "EndingDate": "2023-1-5"
+    },
+
+
+
+    {
+      "Title": "CB17",
+      "Stream": "Html/Css",
+      "Type": "Part Time",
+      "StartingDate": "2022-7-3",
+      "EndingDate": "2023-1-5"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DINOS\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Colt\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+C:\Users\Colt\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Colt\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Colt\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Colt\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Colt\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Colt\source\repos\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Colt\source\repos\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Colt\source\repos\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Colt\source\repos\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\DINOS\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\obj\Debug\ProjectA.pdb
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\CourseData.json
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\AssignmentData.json
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\TrainerData.json
+C:\Users\Nikos\Desktop\ProjectA\ProjectA\bin\Debug\StudentData.json
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\CourseData.json
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\AssignmentData.json
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\TrainerData.json
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\StudentData.json
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\ProjectA.exe.config
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\ProjectA.exe
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.dll
+D:\backup\Individual part A\ProjectA\ProjectA\bin\Debug\Newtonsoft.Json.xml
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.AssemblyReference.cache
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.SuggestedBindingRedirects.cache
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CoreCompileInputs.cache
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.csproj.CopyComplete
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.exe
+D:\backup\Individual part A\ProjectA\ProjectA\obj\Debug\ProjectA.pdb

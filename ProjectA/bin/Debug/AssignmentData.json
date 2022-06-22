@@ -1,0 +1,47 @@
+﻿{
+  "Assignments": [
+    {
+      "Title": "Assigment 1",
+      "Description": "HTML",
+      "SubDateTime": "2022-5-6"
+    },
+    {
+      "Title": "Individual Project A",
+      "Description": "Making a Virtual School",
+      "SubDateTime": "2022-5-2"
+    },
+    {
+      "Title": "Individual Project B",
+      "Description": "Design the ERD",
+      "SubDateTime": "2022-6-8"
+    },
+    {
+      "Title": "Assigment 2",
+      "Description": "MVC Methologies",
+      "SubDateTime": "2022-7-5"
+    },
+    {
+      "Title": "Assigment 3",
+      "Description": "Strategy Pattern",
+      "SubDateTime": "2022-7-19"
+    },
+    {
+      "Title": "Assigment 4",
+      "Description": "Conparative analysis",
+      "SubDateTime": "2022-8-19"
+    },
+    {
+      "Title": "Assigment 5",
+      "Description": "Design a web app",
+      "SubDateTime": "2022-9-9"
+    },
+    {
+      "Title": "Group Project",
+      "Description": "Create a web site",
+      "SubDateTime": "2022-9-23"
+    }
+
+
+
+  ]
+}
